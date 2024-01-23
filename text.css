@@ -1,6 +1,6 @@
 
 p {
-  font-family: Roboto;
+  font-family: Montserrat;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -48,5 +48,22 @@ p {
 }
 
 .shop-link:hover {
+  text-decoration: underline;
+}
+
+.model {
+  font-weight: bold;
+  font-size: 70px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.order {
+  text-align: center;
+  font-size: 30px;
+  font-family: Montserrat;
+}
+
+.touchless {
   text-decoration: underline;
 }
